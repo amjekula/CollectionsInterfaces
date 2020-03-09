@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76dfa496-6cb2-4750-8146-49c1427a2d3d" name="Default Changelist" comment="" />
+    <list default="true" id="76dfa496-6cb2-4750-8146-49c1427a2d3d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Map/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Map/MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,9 @@
         <option value="JUnit3 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -28,6 +36,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Yt3iaqD3VvN92Bo3WS29sOXwYg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,6 +44,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
@@ -42,13 +52,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Map" />
       <recent name="Collections" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="junit.framework.TestCase" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.MapTest.testHash">
     <configuration name="CollectionTest.testStack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CollectionInterfaces" />
       <option name="PACKAGE_NAME" value="Collections" />
@@ -59,8 +70,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MapTest.testHash" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CollectionInterfaces" />
+      <option name="PACKAGE_NAME" value="Map" />
+      <option name="MAIN_CLASS_NAME" value="Map.MapTest" />
+      <option name="METHOD_NAME" value="testHash" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MapTest.testHash" />
         <item itemvalue="JUnit.CollectionTest.testStack" />
       </list>
     </recent_temporary>
@@ -87,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583748191281</updated>
-      <workItem from="1583748194345" duration="1345000" />
+      <workItem from="1583748194345" duration="3004000" />
     </task>
     <servers />
   </component>
@@ -95,25 +117,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1583749906943">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1583751810163">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583749906943" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1583749906942">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583751810163" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1583751810163">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583749906942" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1583749906942">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583751810163" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1583751810162">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583749906942" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1583749906943">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583751810162" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1583751810163">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583749906943" />
-    <state x="454" y="65" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583748974301">
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583751810163" />
+    <state x="454" y="65" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583750707437">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="454" y="65" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1583748974301" />
+    <state x="454" y="65" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1583750707437" />
   </component>
 </project>

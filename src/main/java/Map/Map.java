@@ -2,8 +2,8 @@ package Map;
 import java.util.*;
 
 public class Map {
-
     HashMap<Integer,String> map;
+
     public HashMap hash(){
 
         map =new HashMap<Integer,String>();

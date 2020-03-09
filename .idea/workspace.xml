@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76dfa496-6cb2-4750-8146-49c1427a2d3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Map/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Map/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/List/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/List/ArrayListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Map/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Map/Map.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +52,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="List" />
       <recent name="Map" />
       <recent name="Collections" />
     </key>
@@ -59,7 +60,17 @@
       <recent name="junit.framework.TestCase" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MapTest.testHash">
+  <component name="RunManager" selected="JUnit.ArrayListTest.testList">
+    <configuration name="ArrayListTest.testList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CollectionInterfaces" />
+      <option name="PACKAGE_NAME" value="List" />
+      <option name="MAIN_CLASS_NAME" value="List.ArrayListTest" />
+      <option name="METHOD_NAME" value="testList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CollectionTest.testStack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CollectionInterfaces" />
       <option name="PACKAGE_NAME" value="Collections" />
@@ -82,6 +93,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ArrayListTest.testList" />
         <item itemvalue="JUnit.MapTest.testHash" />
         <item itemvalue="JUnit.CollectionTest.testStack" />
       </list>
@@ -109,7 +121,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583748191281</updated>
-      <workItem from="1583748194345" duration="3004000" />
+      <workItem from="1583748194345" duration="5156000" />
     </task>
     <servers />
   </component>
@@ -117,25 +129,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1583751810163">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1583754443232">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583751810163" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1583751810163">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583754443232" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1583754443232">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583751810163" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1583751810162">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583754443232" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1583754443232">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583751810162" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1583751810163">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583754443232" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1583754443232">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583751810163" />
-    <state x="454" y="65" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583750707437">
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583754443232" />
+    <state x="454" y="65" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583753728380">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="454" y="65" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1583750707437" />
+    <state x="454" y="65" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1583753728380" />
   </component>
 </project>
